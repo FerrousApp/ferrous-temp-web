@@ -1,7 +1,7 @@
 # Ferrous (Temporary Website)
 
 This is the **temporary website** for **Ferrous**.  
-It serves as a placeholder while we continue building and preparing the official Ferrous platform.  
+It serves as a placeholder while we continue building and preparing the official Ferrous website.  
 
 ## About Ferrous
 Ferrous is a platform that enables anyone to invest in real-world assets (RWAs) using their local currency — no prior crypto experience required.
